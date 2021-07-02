@@ -2,10 +2,10 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.pximg.net/img-master/img/2021/04/28/01/36/57/89437506_p0_master1200.jpg" alt="Bakaguya made by QuAn_ (https://www.pixiv.net/en/artworks/89437506)" width="320" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/694325210656276501/860434408556068864/master.jpg" alt="Bakaguya made by QuAn_ (https://www.pixiv.net/en/artworks/89437506)" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+Dup1n@github
 -------------------------
 OS: Fedora 34 Linux x86_64
 Shell: zsh 5.7.1
@@ -17,7 +17,7 @@ Languages: JavaScript, TypeScript,
 Learning: Node.js, Express, Julia, R,
           Python, Bulma
 Hobbies: Animes/Manga, Books, Movies
-Commits: 42
+Commits: 43
 Stars: 16
 Discord: Dup1n#4973
 ```
