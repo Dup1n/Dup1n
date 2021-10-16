@@ -10,7 +10,7 @@ Dup1n@github
 OS: Fedora 34 Linux x86_64
 Shell: zsh 5.7.1
 Pronouns: He/Him
-Location: Santa Cruz, BO
+Location: Santa_Cruz, BO
 Frameworks: React, Angular, Django
 Languages: JavaScript, TypeScript,
            HTML/CSS, Java, SQL (Postgres)
